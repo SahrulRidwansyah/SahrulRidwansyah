@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://raw.githubusercontent.com/SahrulRidwansyah/SahrulRidwansyah/snake-output/snake.svg)
 
-![Pacman animation](https://raw.githubusercontent.com/SahrulRidwansyah/SahrulRidwansyah/pacman-output/dist/pacman-contribution-graph.svg)
+![Pacman animation](https://raw.githubusercontent.com/SahrulRidwansyah/SahrulRidwansyah/pacman-output/pacman-contribution-graph-dark.svg)
