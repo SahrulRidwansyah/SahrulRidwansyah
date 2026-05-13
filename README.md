@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+![Snake animation](https://raw.githubusercontent.com/SahrulRidwansyah/SahrulRidwansyah/snake-output/dist/snake.svg)
+
+![Pacman animation](https://raw.githubusercontent.com/SahrulRidwansyah/SahrulRidwansyah/pacman-output/dist/pacman-contribution-graph.svg)
