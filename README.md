@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![SahrulRidwansyah](img/github-header-banner%20(1).png)
 
 <!--
