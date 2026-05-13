@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![SahrulRidwansyah](img/github-header-banner.png)
+![SahrulRidwansyah](img/github-header-banner%20(1).png)
 
 <!--
 **SahrulRidwansyah/SahrulRidwansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
